@@ -1,0 +1,8 @@
+#header-img { width: 30px;
+    height:30px;}
+    #header {color: green;}
+    #nav-bar {position: fixed; left:80%; top:0; width:100%; 
+    }
+    @media(min-height:400px) {main{font-family:Helvetica;}}
+    #section {display: flex;
+    flex-direction:row;}
